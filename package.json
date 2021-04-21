@@ -1,5 +1,5 @@
 {
-  "name": "old-shoelace-theme-editor",
+  "name": "old-shoelace-theme-designer",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcjazzyfunky/shoelace-theme-editor.git"
+    "url": "git+https://github.com/mcjazzyfunky/old-shoelace-theme-designer.git"
   },
   "keywords": [],
   "author": "",
