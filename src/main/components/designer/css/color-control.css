@@ -1,0 +1,16 @@
+.base {
+  margin: 2px 0;
+}
+
+label {
+  width: 9em;
+  padding: 0 0 0 0.5em;
+}
+
+span {
+  width: 4.5em;
+}
+
+sl-color-picker {
+  margin-top: -4px;
+}
